@@ -1,0 +1,10 @@
+{
+  "title": "Mein Schreibcoach",
+  "model": "qwen3-30b-a3b-instruct-2507",
+  "temperature": 0.0,
+  "top_p": 0.05,
+  "messages":,
+  "arcana": {
+    "id": "joerg.riedel/Hilfen im Schreibprozess"
+  }
+}
